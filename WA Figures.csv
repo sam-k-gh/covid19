@@ -1,9 +1,9 @@
 ﻿datetime,Tested_negative,Cases_Positive,Unknown source,Active Cases,Recovered,Deaths,Diamond Princess,New Cases,Artania Total,Artania Deaths,total_tests
 29-Feb-20,,2,,,,,,2,,,
-1-Mar-20,,2,,,,,,0,,,
-2-Mar-20,,2,,,,,,0,,,
-3-Mar-20,,2,,,,,,0,,,
-4-Mar-20,,2,,,,,,0,,,
+1-Mar-20,,2,,,,1,,0,,,
+2-Mar-20,,2,,,,1,,0,,,
+3-Mar-20,,2,,,,1,,0,,,
+4-Mar-20,,2,,,,1,,0,,,
 5-Mar-20,836,3,0,,,1,2,1,,,839
 6-Mar-20,1110,3,0,,,1,2,0,,,1113
 7-Mar-20,1454,3,0,,,1,2,0,,,1457
